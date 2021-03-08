@@ -1,0 +1,5 @@
+const VIEW_USER = "VIEW_USER";
+const ADD_USER = "ADD_USER";
+const UPDATE_AGE = "UPDATE_AGE";
+const ADD_AGE = "ADD_AGE";
+export { VIEW_USER, ADD_AGE, UPDATE_AGE, ADD_USER };
